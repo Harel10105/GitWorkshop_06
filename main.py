@@ -1,3 +1,3 @@
 def funny_story():
-    print("i don't have something funny ")
+    print("i don't have something funny")
 
